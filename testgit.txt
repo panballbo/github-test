@@ -1,5 +1,3 @@
 test git aaa
 bbb
-ttt
-qqq
-ooo
+ggg
